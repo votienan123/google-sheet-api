@@ -1,0 +1,24 @@
+{
+  "name": "gg-sheet-api",
+  "version": "1.0.0",
+  "description": "Google sheet API generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"no test \" ",
+    "start": "nodemon server.js"
+  },
+  "keywords": [
+    "Google",
+    "Sheet",
+    "API"
+  ],
+  "author": "anvt",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.18.5"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.3.7"
+  }
+}
